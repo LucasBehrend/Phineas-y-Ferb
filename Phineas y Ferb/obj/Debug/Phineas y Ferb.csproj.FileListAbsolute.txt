@@ -1,0 +1,10 @@
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\bin\Debug\Phineas y Ferb.exe.config
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\bin\Debug\Phineas y Ferb.exe
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\bin\Debug\Phineas y Ferb.pdb
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\obj\Debug\Phineas y Ferb.csprojAssemblyReference.cache
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\obj\Debug\Phineas_y_Ferb.Form1.resources
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\obj\Debug\Phineas_y_Ferb.Properties.Resources.resources
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\obj\Debug\Phineas y Ferb.csproj.GenerateResource.cache
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\obj\Debug\Phineas y Ferb.csproj.CoreCompileInputs.cache
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\obj\Debug\Phineas y Ferb.exe
+C:\Users\47494202\Desktop\VisualStudio\Phineas y Ferb\Phineas y Ferb\obj\Debug\Phineas y Ferb.pdb
